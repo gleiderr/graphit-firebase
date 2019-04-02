@@ -1,0 +1,19 @@
+{
+  "name": "graphit-firebase",
+  "version": "0.1.0",
+  "description": "Database interface for graphit",
+  "main": "./src/graphit-firebase.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "graphit"
+  ],
+  "author": "gleiderr",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^5.9.1",
+    "graphit": "file:../graphit"
+  },
+  "devDependencies": {}
+}
